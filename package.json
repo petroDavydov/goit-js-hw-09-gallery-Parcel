@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/petroDavydov/goit-js-hw-09-gallery-Parcel/issues"
   },
-  "homepage": "https://petroDavydov.github.io/goit-js-hw-09-gallery-Parcel",
+  "homepage":  "https://petroDavydov.github.io/goit-js-hw-09-gallery-Parcel",
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
     "parcel-plugin-nuke-dist": "^1.0.1"
